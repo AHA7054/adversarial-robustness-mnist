@@ -1,0 +1,5 @@
+model,clean,"FGSM 0.15, transfer (original eval)","FGSM 0.1, white-box","PGD 0.1, white-box","FGSM 0.2, white-box","PGD 0.2, white-box"
+Standard,99.05,72.66,89.13,74.92,46.90,1.51
+FGSM-AT,99.06,94.94,96.44,87.84,88.27,17.60
+PGD-AT,99.10,95.49,95.91,94.89,87.28,66.93
+Ensemble (3),99.19,90.11,91.53,86.42,54.00,8.25

@@ -1,0 +1,5 @@
+bits,epsilon,no defense,unaware attacker,naive white-box,adaptive (BPDA)
+4,0.1,74.90,57.60,99.01,53.96
+4,0.2,1.43,1.60,98.97,3.00
+1,0.1,75.09,97.06,98.78,96.48
+1,0.2,1.38,93.73,98.71,92.85
